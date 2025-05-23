@@ -88,6 +88,7 @@ const Calculator1 = () => {
   };
 
   return (
+    <div> Vishal Patel</div>
     <div className="calculator1-container">
       <h1>Calculator - Style 1</h1>
       <div className="calculator1">

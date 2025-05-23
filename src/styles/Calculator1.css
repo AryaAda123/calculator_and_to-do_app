@@ -5,6 +5,7 @@
   justify-content: center;
   position: relative;
   z-index: 1;
+  color: green;
 }
 
 .calculator1-container h1 {

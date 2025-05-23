@@ -9,6 +9,7 @@
   width: 100%;
   position: relative;
   overflow: hidden;
+  color: green;
 }
 
 @keyframes todo-gradient {
